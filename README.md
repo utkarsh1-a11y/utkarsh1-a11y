@@ -13,9 +13,10 @@ Hi, I'm Utkarsh 👋
 - Beyond coding, I enjoy **sharing knowledge 🎙️** and collaborating with fellow developers 🤝
 - Always open to meaningful conversations around tech, learning, and innovation ✨
 
-<a target="_blank">
-<img align="right" src="working_type.gif" width="300" style="border-radius: 100%; margin-left: 20px;" alt="Utkarsh">
-</a>
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 - 🔭 I’m currently improving my **problem-solving skills**
 
@@ -33,57 +34,81 @@ Hi, I'm Utkarsh 👋
 
 - ⚡ Fun fact **Apparently banging your head against a wall burns 150 calories — my debugging sessions must be a full workout**
 
+</td>
+
+<td width="35%" align="center">
+
+<img src="working_type.gif" width="300" alt="Utkarsh">
+
+</td>
+
+</tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
-<a target="_blank">
-<img align="right" src="work.gif" width="140" height="67" style="margin-left: 40px; margin-bottom: 20px;" alt="working on code">
-</a>
+
 <p align="left">
   <a href="https://github.com/utkarsh1-a11y" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="utkarsh1-a11y" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/utkarshk-gupta/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshk-gupta" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
   <a href="https://leetcode.com/u/Runtime_Terror01/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Runtime_Terror01" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" width="40" height="40"/></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="vercel" width="40" height="40"/></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn/ui" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" alt="intellij idea" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" width="40" height="40"/></a>
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="chatgpt" width="40" height="40"/></a>
-<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude" alt="claude" width="40" height="40"/></a>
-<a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" alt="gemini" width="40" height="40"/></a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="canva" width="40" height="40"/></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" alt="notion" width="40" height="40"/></a>
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-302E31?style=flat-square&logo=obsstudio&logoColor=FFFFFF" alt="obs studio" width="40" height="40"/></a>
-<a href="https://monkeytype.com/profile/enigmaticman1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%20-323437?style=flat-square&logo=monkeytype&logoColor=E2B714" alt="monkeytype" width="40" height="40"/></a>
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+<p>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/html5"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/css3"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40"/></a>
+<a href="https://www.java.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40"/></a>
+<a href="https://github.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="40"/></a>
+<a href="https://vercel.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40"/></a>
+<a href="https://ui.shadcn.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="40"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" width="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="40"/></a>
+<a href="https://chat.openai.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="40"/></a>
+<a href="https://claude.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="40"/></a>
+<a href="https://gemini.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="40"/></a>
+<a href="https://www.canva.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="40"/></a>
+<a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" width="40"/></a>
+<a href="https://obsproject.com/"><img src="https://img.shields.io/badge/-%20-302E31?style=flat-square&logo=obsstudio&logoColor=FFFFFF"/></a>
+<a href="https://monkeytype.com/profile/enigmaticman1"><img src="https://img.shields.io/badge/-%20-323437?style=flat-square&logo=monkeytype&logoColor=E2B714"/></a>
 
 </p>
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="work.gif" width="260" alt="working on code">
+
+</td>
+
+</tr>
+</table>
 
 <!-- Contribution Snake -->
 <div align="center">
