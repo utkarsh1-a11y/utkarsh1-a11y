@@ -1,7 +1,7 @@
 <h1 align="center">Calculated. Committed. Complete.</h1>
 
 <p align="center">
-  <img src="eyes.gif" width="360" height="290" alt="coding vibes">
+  <img src="eyes.gif" width="380" height="270" alt="coding vibes">
 </p>
 
 ## About Me
@@ -35,7 +35,7 @@ Hi, I'm Utkarsh 👋
 
 <h3 align="left">Connect with me:</h3>
 <a target="_blank">
-<img align="right" src="work.gif" width="350" height="420" alt="working on code">
+<img align="right" src="work.gif" width="350" height="420" style="margin-left: 20px;" alt="working on code">
 </a>
 <p align="left">
   <a href="https://github.com/utkarsh1-a11y" target="_blank">
