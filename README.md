@@ -95,14 +95,6 @@ Hi, I'm Utkarsh 👋
 <a href="https://www.canva.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="40"/></a>
 <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" width="40"/></a>
 
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" alt="OBS Studio" width="40" height="40"/>
-</a>
-
-<a href="https://monkeytype.com/profile/enigmaticman1" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/monkeytype/E2B714" alt="Monkeytype" width="40" height="40"/>
-</a>
-
 </p>
 
 </td>
