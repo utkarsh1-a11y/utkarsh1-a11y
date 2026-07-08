@@ -35,7 +35,7 @@ Hi, I'm Utkarsh 👋
 
 <h3 align="left">Connect with me:</h3>
 <a target="_blank">
-<img align="right" src="work.gif" width="220" height="106" style="margin-left: 40px;" alt="working on code">
+<img align="right" src="work.gif" width="140" height="67" style="margin-left: 40px; margin-bottom: 20px;" alt="working on code">
 </a>
 <p align="left">
   <a href="https://github.com/utkarsh1-a11y" target="_blank">
