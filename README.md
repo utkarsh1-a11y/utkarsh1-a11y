@@ -1,7 +1,7 @@
 <h1 align="center">Calculated. Committed. Complete.</h1>
 
 <p align="center">
-  <img src="eyes.gif" width="150" alt="coding vibes">
+  <img src="eyes.gif" width="260" alt="coding vibes">
 </p>
 
 ## About Me
@@ -13,13 +13,13 @@ Hi, I'm Utkarsh 👋
 - Beyond coding, I enjoy **sharing knowledge 🎙️**, creating content, and collaborating with fellow developers 🤝
 - Always open to meaningful conversations around tech, learning, and innovation ✨
 
-- 🔭 I’m currently improving my **problem-solving skills**
-
-- 🌱 I’m currently exploring **Cloud Technologies**
-
 <a target="_blank">
 <img align="right" src="working_type.gif" width="300" style="border-radius: 100%; margin-left: 20px;" alt="Utkarsh">
 </a>
+
+- 🔭 I’m currently improving my **problem-solving skills**
+
+- 🌱 I’m currently exploring **Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **development-focused projects**
 
@@ -49,6 +49,9 @@ Hi, I'm Utkarsh 👋
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="work.gif" width="300" alt="working on code">
+</p>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
