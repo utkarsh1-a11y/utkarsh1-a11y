@@ -94,8 +94,14 @@ Hi, I'm Utkarsh 👋
 <a href="https://gemini.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="40"/></a>
 <a href="https://www.canva.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="40"/></a>
 <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" width="40"/></a>
-<a href="https://obsproject.com/"><img src="https://img.shields.io/badge/-%20-302E31?style=flat-square&logo=obsstudio&logoColor=FFFFFF"/></a>
-<a href="https://monkeytype.com/profile/enigmaticman1"><img src="https://img.shields.io/badge/-%20-323437?style=flat-square&logo=monkeytype&logoColor=E2B714"/></a>
+
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" alt="OBS Studio" width="40" height="40"/>
+</a>
+
+<a href="https://monkeytype.com/profile/enigmaticman1" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/monkeytype/E2B714" alt="Monkeytype" width="40" height="40"/>
+</a>
 
 </p>
 
