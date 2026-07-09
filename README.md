@@ -19,19 +19,12 @@ Hi, I'm Utkarsh 👋
 <td width="65%" valign="top">
 
 - 🔭 I’m currently improving my **problem-solving skills**
-
 - 🌱 I’m currently exploring **Cloud Technologies**
-
 - 👯 I’m looking to collaborate on **development-focused projects**
-
 - 💬 Happy to discuss about **coding, projects, or learning paths**
-
 - 📫 Reach me at **victusutkarsh1@gmail.com**
-
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **He/Him**
-
 - 🏆 Personal achievement **I type at 131 WPM**
-
 - ⚡ Fun fact **Apparently banging your head against a wall burns 150 calories — my debugging sessions must be a full workout**
 
 </td>
